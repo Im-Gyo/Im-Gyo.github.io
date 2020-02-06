@@ -1,6 +1,4 @@
 ---
 layout: category
-title: Markup
+title: Diary
 ---
-
-Another sample category page.
