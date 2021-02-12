@@ -10,8 +10,8 @@ SpringBoot 게시판 작성 중에 ControllerTest코드 작성을 하다가
 이 코드가 생소해 자세히 분석하기 위해서 포스팅을 하려고 한다.
 
 일단 스프링 프레임워크에서 동기방식의 RestTemplate클래스가 있다.
-- RestTemplate
-Spring 3부터 지원 됐고 REST API 호출 이후 응답을 받을 때 까지 기다리는 동기방식이다.
+- RestTemplate  
+Spring 3부터 지원 됐고 REST API 호출 이후 응답을 받을 때 까지 기다리는 동기방식이다.  
 
 ##### 메서드 정리
 ![](https://github.com/Im-Gyo/Im-Gyo.github.io/blob/master/_screenshots/ResponseEntity2.PNG?raw=true)  
