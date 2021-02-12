@@ -1,6 +1,6 @@
 ---
 layout : post
 title : Stpring RestTemplate
-category : 　● Web
+category : Spring
 ---
 test
