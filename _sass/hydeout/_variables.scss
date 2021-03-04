@@ -19,7 +19,7 @@ $root-line-height: 1.5 !default;
 
 $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
-$body-bg: #fff !default;
+$body-bg: #2e2e2e !default;
 $link-color: $blue !default;
 $heading-color: $gray-6 !default;
 
@@ -50,7 +50,7 @@ $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
-$sidebar-title-color: #2e2e2e !default;
-$sidebar-link-color: #2e2e2e !default;
-$sidebar-text-color: #2e2e2e !default;
-$sidebar-icon-color: #2e2e2e !default;
+$sidebar-title-color: $sidebar-fg-color !default;
+$sidebar-link-color: $sidebar-fg-color !default;
+$sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
+$sidebar-icon-color: rgba($sidebar-fg-color, 0.75) !default;
